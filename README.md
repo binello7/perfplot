@@ -9,6 +9,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/nschloe/perfplot.svg?style=flat-square&logo=github&label=Stars&logoColor=white)](https://github.com/nschloe/perfplot)
 [![PyPi downloads](https://img.shields.io/pypi/dm/perfplot.svg?style=flat-square)](https://pypistats.org/packages/perfplot)
 
+# Gionata & Seba's version
+
 perfplot extends Python's [timeit](https://docs.python.org/3/library/timeit.html) by
 testing snippets with input parameters (e.g., the size of an array) and plotting the
 results.  (By default, perfplot asserts the equality of the output of all snippets,
